@@ -1,3 +1,6 @@
+OTOR ABRAHAM OSAREME
+25/17825
+SOFTWARE ENGINEERING 
 # COS 201 – Computer Programming I
 ## Week 3 Assignment
 
